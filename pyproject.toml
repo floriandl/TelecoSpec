@@ -1,0 +1,13 @@
+[project]
+name = "telecospec"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dspy>=3.4.1",
+    "huggingface-hub>=1.33.0",
+    "pytest>=9.1.1",
+    "scikit-learn>=1.9.1",
+    "torch>=2.14.1",
+]
